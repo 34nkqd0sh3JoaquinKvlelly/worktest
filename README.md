@@ -6,3 +6,4 @@ Start: Run  and access at .
 Requirements: Python 3.9+, 4GB RAM minimum.
 Usage:  to run a workflow.
 Contribute: See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+License: Apache 2.0 License, see [LICENSE](LICENSE).
