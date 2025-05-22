@@ -14,3 +14,4 @@ plugins: anyio-4.9.0
 collected 0 items
 
 ============================ no tests ran in 0.00s ============================= to execute unit tests.
+FAQ: Workflow setup in [workflows.md](docs/workflows.md).
