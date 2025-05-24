@@ -15,3 +15,4 @@ collected 0 items
 
 ============================ no tests ran in 0.00s ============================= to execute unit tests.
 FAQ: Workflow setup in [workflows.md](docs/workflows.md).
+Community: Join discussions on [Discord](https://discord.gg/flowcraft).
